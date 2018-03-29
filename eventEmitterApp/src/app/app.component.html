@@ -1,0 +1,5 @@
+<p>The sender message to the receiver :</p>
+<app-sender (emitter)='showTimes($event)'></app-sender><br>
+<p>The root message to the receiver :</p>
+<app-receiver [receiveFromRoot]="rootInfo"></app-receiver>
+
