@@ -1,6 +1,8 @@
 # EventEmitterApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
+
+# Function
 The app basic implment that the passing parameter process between componemts as well as the app-root to the children components, click the button to send the message for several times.
 
 ## Development server
